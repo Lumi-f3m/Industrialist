@@ -1,0 +1,1067 @@
+{
+  "10_karat_gold": {
+    "name": "10 Karat Gold",
+    "cost": 300,
+    "rp_value": 1
+  },
+  "12_karat_gold": {
+    "name": "12 Karat Gold",
+    "cost": 500,
+    "rp_value": 1
+  },
+    "18_karat_gold": {
+    "name": "18 Karat Gold",
+    "cost": 800,
+    "rp_value": 1
+  },
+    "24_karat_gold": {
+    "name": "24 Karat Gold",
+    "cost": 1200,
+    "rp_value": 1
+  },
+    "8_karat_gold": {
+    "name": "8 Karat Gold",
+    "cost": 160,
+    "rp_value": 1
+  },
+    "acetic_acid": {
+    "name": "Acetic Acid",
+    "cost": 14.5,
+    "rp_value": 7
+  },
+    "aggregate": {
+    "name": "Aggregate",
+    "cost": 14.59,
+    "rp_value": 1
+  },
+    "alumina": {
+    "name": "Alumina",
+    "cost": 100,
+    "rp_value": 1
+  },
+    "alumina_dust": {
+    "name": "Alumina Dust",
+    "cost": 90,
+    "rp_value": 1
+  },
+    "aluminium_ingot": {
+    "name": "Aluminium Ingot",
+    "cost": 800,
+    "rp_value": 65
+  },
+    "ammonia": {
+    "name": "Ammonia",
+    "cost": 1,
+    "rp_value": 15
+  },
+    "argon": {
+    "name": "Argon",
+    "cost": 2,
+    "rp_value": 0
+  },
+    "bauxite_residue": {
+    "name": "Bauxite Residue",
+    "cost": 50,
+    "rp_value": 1
+  },
+    "black_dye": {
+    "name": "Black Dye",
+    "cost": 8.7,
+    "rp_value": 1
+  },
+    "boric_acid": {
+    "name": "Boric Acid",
+    "cost": 1500,
+    "rp_value": 12
+  },
+    "boron": {
+    "name": "Boron",
+    "cost": 0,
+    "rp_value": 1
+  },
+    "brass_ingot": {
+    "name": "Brass Ingot",
+    "cost": 80,
+    "rp_value": 35
+  },
+    "brick": {
+    "name": "Brick",
+    "cost": 50,
+    "rp_value": 2
+  },
+    "cat": {
+    "name": "Cat",
+    "cost": 20000,
+    "rp_value": 1
+  },
+    "cement": {
+    "name": "Cement",
+    "cost": 0,
+    "rp_value": 0
+  },
+    "chair": {
+    "name": "Chair",
+    "cost": 1029.5,
+    "rp_value": 30
+  },
+    "charged_lithium_ion_battery": {
+    "name": "Charged Lithium Ion Battery",
+    "cost": 4000,
+    "rp_value": 1
+  },
+    "cheap_water_bottle": {
+    "name": "Cheap Water Bottle",
+    "cost": 130.5,
+    "rp_value": 5
+  },
+    "chlorine": {
+    "name": "Chlorine",
+    "cost": 0.2,
+    "rp_value": 0.5
+  },
+    "chunk_plank": {
+    "name": "Chunk Plank",
+    "cost": 3.48,
+    "rp_value": 1
+  },
+    "clay": {
+    "name": "Clay",
+    "cost": 2,
+    "rp_value": 0.2
+  },
+    "clay_brick": {
+    "name": "Clay Brick",
+    "cost": 28,
+    "rp_value": 1
+  },
+    "coal": {
+    "name": "Coal",
+    "cost": 5.22,
+    "rp_value": 1
+  },
+    "coke fuel": {
+    "name": "Coke Fuel",
+    "cost": 18,
+    "rp_value": 9
+  },
+    "consentrated_salt_solution": {
+    "name": "Concentrated Salt Solution",
+    "cost": 2,
+    "rp_value": 1
+  },
+    "concrete": {
+    "name": "Concrete Block",
+    "cost": 150,
+    "rp_value": 1
+  },
+    "condensate": {
+    "name": "Condensate",
+    "cost": 0.1,
+    "rp_value": 0
+  },
+    "contaminated_water": {
+    "name": "Contaminated Water",
+    "cost": -241,
+    "rp_value": 0
+  },
+    "control_rod": {
+    "name": "Control Rod",
+    "cost": 150000,
+    "rp_value": 1
+  },
+    "copper_drill_head": {
+    "name": "Copper Drill Head",
+    "cost": 20000,
+    "rp_value": 25
+  },
+    "copper_ingot": {
+    "name": "Copper Ingot",
+    "cost": 26.68,
+    "rp_value": 1.5
+  },
+    "copper_mix": {
+    "name": "Copper Mix",
+    "cost": 3,
+    "rp_value": 1
+  },
+    "copper_plate": {
+    "name": "Copper Plate",
+    "cost": 32.86,
+    "rp_value": 6
+  },
+    "copper_powder": {
+    "name": "Copper Powder",
+    "cost": 7,
+    "rp_value": 1
+  },
+    "copper_wire": {
+    "name": "Copper Wire",
+    "cost": 7.31,
+    "rp_value": 1
+  },
+    "crankshaft": {
+    "name": "Crankshaft",
+    "cost": 754,
+    "rp_value": 35
+  },
+    "crude_diesel": {
+    "name": "Crude Diesel",
+    "cost": 13.05,
+    "rp_value": 1
+  },
+    "crude_oil": {
+    "name": "Crude Oil",
+    "cost": 11.6,
+    "rp_value": 0.2
+  },
+    "crushed_bauxite": {
+    "name": "Crushed Bauxite",
+    "cost": 75,
+    "rp_value": 1
+  },
+    "cut_oak_log": {
+    "name": "Cut Oak Log",
+    "cost": 3.48,
+    "rp_value": 1
+  },
+    "deep_earth_fragment": {
+    "name": "Deep Earth Fragment",
+    "cost": 200,
+    "rp_value": 1
+  },
+    "enriched_ef6_waste": {
+    "name": "Enriched UF6 Waste",
+    "cost": -250,
+    "rp_value": 0
+  },
+    "diesel": {
+    "name": "Diesel",
+    "cost": 30.45,
+    "rp_value": 2
+  },
+    "dirty_lithium_sulfate": {
+    "name": "Dirty Lithium Sulfate",
+    "cost": 60,
+    "rp_value": 1
+  },
+    "distilled_water": {
+    "name": "Distilled_water",
+    "cost": 1,
+    "rp_value": 0.3
+  },
+    "dynamite": {
+    "name": "Dynamite",
+    "cost": 120,
+    "rp_value": 25
+  },
+    "electric_motor": {
+    "name": "Electric Motor",
+    "cost": 4500,
+    "rp_value": 200
+  },
+    "electromagnet": {
+    "name": "Electromagnet",
+    "cost": 950,
+    "rp_value": 1
+  },
+    "enriched_uf6_gas": {
+    "name": "Enriched UF6 Gas",
+    "cost": 150,
+    "rp_value": 0
+  },
+    "enriched_uo2_pellets": {
+    "name": "Enriched UO2 Pellets",
+    "cost": 256,
+    "rp_value": 1
+  },
+    "ethenol": {
+    "name": "Ethanol",
+    "cost": 5.8,
+    "rp_value": 2
+  },
+    "ethylene": {
+    "name": "Ethylene",
+    "cost": 14.5,
+    "rp_value": 0.2
+  },
+    "Exhaust": {
+    "name": "Exhaust",
+    "cost": -0.5,
+    "rp_value": 0
+  },
+    "ferroalluminum_alloy_ingot": {
+    "name": "Ferroalluminum Alloy Ingot",
+    "cost": 2500,
+    "rp_value": 1
+  },
+    "ferroaluminium_magnet": {
+    "name": "Ferroalluminum Magnet",
+    "cost": 8500,
+    "rp_value": 120
+  },
+    "filter": {
+    "name": "Filter",
+    "cost": 20,
+    "rp_value": 1
+  },
+    "filtered_water": {
+    "name": "Filtered Water",
+    "cost": 0.55,
+    "rp_value": 0.2
+  },
+    "fission_byproducts": {
+    "name": "Fussion Byproducts",
+    "cost": -5000000,
+    "rp_value": 0
+  },
+    "fracking_oil": {
+    "name": "Fracking Oil",
+    "cost": 1,
+    "rp_value": 0.2
+  },
+    "galvanized_steel": {
+    "name": "Galvanized Steel",
+    "cost": 123,
+    "rp_value": 33
+  },
+    "gasoline": {
+    "name": "Gasoline",
+    "cost": 40.6,
+    "rp_value": 7.5
+  },
+    "gasoline_e10": {
+    "name": "GasolineE10",
+    "cost": 57,
+    "rp_value": 13
+  },
+    "gear": {
+    "name": "Gear",
+    "cost": 98.6,
+    "rp_value": 20
+  },
+    "gearbox": {
+    "name": "Gearbox",
+    "cost": 2552,
+    "rp_value": 50
+  },
+    "glass": {
+    "name": "Glass",
+    "cost": 80,
+    "rp_value": 14
+  },
+    "gold": {
+    "name": "Gold",
+    "cost": 4250,
+    "rp_value": 70
+  },
+    "gold_wire": {
+    "name": "Gold Wire",
+    "cost": 200,
+    "rp_value": 1
+  },
+    "graphite_iron_electrode": {
+    "name": "Graphite-Iron Electrode",
+    "cost": 80,
+    "rp_value": 1
+  },
+    "graphite_zinc_electrode": {
+    "name": "Graphite-Zinc Electrode",
+    "cost": 60,
+    "rp_value": 1
+  },
+    "gravel": {
+    "name": "Gravel",
+    "cost": 4,
+    "rp_value": 0.1
+  },
+    "gunpowder": {
+    "name": "Gunpowder",
+    "cost": 70,
+    "rp_value": 1
+  },
+    "hardened_plastic_casing": {
+    "name": "Hardened Plastic Casing",
+    "cost": 200,
+    "rp_value": 20
+  },
+    "hardened_plastic_pellets": {
+    "name": "Hardened Plastic Pellets",
+    "cost": 2.5,
+    "rp_value": 10
+  },
+    "heavy_oil": {
+    "name": "Heavy Oil",
+    "cost": 5,
+    "rp_value": 0.2
+  },
+    "high_presure_steam": {
+    "name": "High Pressure Steam",
+    "cost": 5,
+    "rp_value": 0.2
+  },
+    "hot_crude_oil": {
+    "name": "Hot Crude Oil",
+    "cost": 0.14,
+    "rp_value": 0
+  },
+    "hydrochloric_acid": {
+    "name": "Hydrochloric Acid",
+    "cost": 80,
+    "rp_value": 10
+  },
+    "hydrofluoric_acid": {
+    "name": "Hydrofluoric Acid",
+    "cost": 600,
+    "rp_value": 13
+  },
+    "hydrogen": {
+    "name": "Hydrogen",
+    "cost": 0.2,
+    "rp_value": 0.5
+  },
+    "hydrogen_sulfide": {
+    "name": "Hydrogen Sulfide",
+    "cost": 8,
+    "rp_value": 0
+  },
+    "impure_boron": {
+    "name": "Impure Boron",
+    "cost": 0,
+    "rp_value": 1
+  },
+    "insulated_wire": {
+    "name": "Insulated Wire",
+    "cost": 40,
+    "rp_value": 1
+  },
+    "iron_coil": {
+    "name": "Iron Coil",
+    "cost": 43.85,
+    "rp_value": 4
+  },
+    "iron_drill_head": {
+    "name": "Iron Drill Head",
+    "cost": 145000,
+    "rp_value": 30
+  },
+    "iron_ingot": {
+    "name": "Iron Ingot",
+    "cost": 65.54,
+    "rp_value": 1
+  },
+    "iron_mix": {
+    "name": "Iron Mix",
+    "cost": 10,
+    "rp_value": 1
+  },
+    "iron_plate": {
+    "name": "Iron Plate",
+    "cost": 70.18,
+    "rp_value": 1
+  },
+    "iron_plate_2": {
+    "name": "Iron Plate^2",
+    "cost": 295.8,
+    "rp_value": 1
+  },
+    "iron_powder": {
+    "name": "Iron Powder",
+    "cost": 15,
+    "rp_value": 1
+  },
+    "lead_ingot": {
+    "name": "Lead Ingot",
+    "cost": 25,
+    "rp_value": 1
+  },
+    "leaded_gasoline": {
+    "name": "Leaded Gasoline",
+    "cost": 112,
+    "rp_value": 23
+  },
+    "light_oil": {
+    "name": "Light Oil",
+    "cost": 7,
+    "rp_value": 0.1
+  },
+    "limestone": {
+    "name": "Limestone",
+    "cost": 1,
+    "rp_value": 0.2
+  },
+    "liquid_aluminium": {
+    "name": "Liquid Aluminium",
+    "cost": 200,
+    "rp_value": 0
+  },
+    "liquid_argon": {
+    "name": "Liquid Argon",
+    "cost": 50,
+    "rp_value": 3
+  },
+    "liquid_brass": {
+    "name": "Liquid Brass",
+    "cost": 30,
+    "rp_value": 0
+  },
+    "liquid_copper": {
+    "name": "Liquid Copper",
+    "cost": 7.54,
+    "rp_value": 0
+  },
+    "liquid_glass": {
+    "name": "Liquid Glass",
+    "cost": 10,
+    "rp_value": 1
+  },
+    "liquid_gold": {
+    "name": "Liquid Gold",
+    "cost": 1000,
+    "rp_value": 0
+  },
+    "liquid_iron": {
+    "name": "Liquid Iron",
+    "cost": 23.2,
+    "rp_value": 0
+  },
+    "liquid_lead": {
+    "name": "Liquid Lead",
+    "cost": 5,
+    "rp_value": 0
+  },
+    "liquid_nitrogen": {
+    "name": "Liquid Nitrogen",
+    "cost": 4,
+    "rp_value": 3
+  },
+    "liquid_oxygen": {
+    "name": "Liquid Oxygen",
+    "cost": 6,
+    "rp_value": 3
+  },
+    "liquid_sulfer": {
+    "name": "Liquid Sulfer",
+    "cost": 12,
+    "rp_value": 0
+  },
+    "lithium_battery_pack": {
+    "name": "Lithium Battery Pack",
+    "cost": 85000,
+    "rp_value": 180
+  },
+    "lithium_brine": {
+    "name": "Lithium Brine",
+    "cost": 25,
+    "rp_value": 1
+  },
+    "lithium_carbonate": {
+    "name": "Lithium Carbonate",
+    "cost": 200,
+    "rp_value": 40
+  },
+    "lithium_ore": {
+    "name": "Lithium Ore",
+    "cost": 10,
+    "rp_value": 1
+  },
+    "lithium_silfate": {
+    "name": "Lithium Silfate",
+    "cost": 100,
+    "rp_value": 1
+  },
+    "lng": {
+    "name": "LNG",
+    "cost": 160,
+    "rp_value": 2
+  },
+    "logic_plate": {
+    "name": "Logic Plate",
+    "cost": 65,
+    "rp_value": 1
+  },
+    "low_enrichment_fuel_rod": {
+    "name": "Low Enrichment Fuel Rod",
+    "cost": 20000,
+    "rp_value": 1
+  },
+    "low_pressure_steam": {
+    "name": "Low Pressure Steam",
+    "cost": 0.03,
+    "rp_value": 0
+  },
+    "machine_oil": {
+    "name": "Machine Oil",
+    "cost": 29,
+    "rp_value": 4
+  },
+    "medium_earth_fragment": {
+    "name": "Medium Earth Fragment",
+    "cost": 120,
+    "rp_value": 1
+  },
+    "meg": {
+    "name": "MEG",
+    "cost": 2.9,
+    "rp_value": 0.2
+  },
+    "microchip": {
+    "name": "Microchip",
+    "cost": 4000,
+    "rp_value": 1
+  },
+    "microchip_scrap": {
+    "name": "Microchip Scrap",
+    "cost": 0,
+    "rp_value": 1
+  },
+    "mixed_fissile_nitrates": {
+    "name": "Mixed Fissile Nitrates",
+    "cost": 0,
+    "rp_value": 1
+  },
+    "mixed_fissile_oxides": {
+    "name": "Mixed Fissile Oxides",
+    "cost": 0,
+    "rp_value": 1
+  },
+    "mixed_uranium": {
+    "name": "Mixed Uranium",
+    "cost": 0,
+    "rp_value": 1
+  },
+    "molten_ferroalluminium_alloy": {
+    "name": "Molten Ferroalluminium Alloy",
+    "cost": 1100,
+    "rp_value": 1
+  },
+    "molten_purple_gold": {
+    "name": "Molten Purple Gold",
+    "cost": 580,
+    "rp_value": 1
+  },
+    "mox_fuel_rod": {
+    "name": "MOX Fuel Rod",
+    "cost": 1000000,
+    "rp_value": 100
+  },
+    "nails": {
+    "name": "Nails",
+    "cost": 2.9,
+    "rp_value": 1
+  },
+    "naphtha": {
+    "name": "Naphtha",
+    "cost": 15.6,
+    "rp_value": 0.1
+  },
+    "nitrogen": {
+    "name": "Nitrogen",
+    "cost": 0.15,
+    "rp_value": 0
+  },
+    "oak_log": {
+    "name": "Oak Log",
+    "cost": 5.8,
+    "rp_value": 1
+  },
+    "oil_bottle": {
+    "name": "Oil Bottle",
+    "cost": 208.8,
+    "rp_value": 20
+  },
+    "oxygen": {
+    "name": "Oxygen",
+    "cost": 0.1,
+    "rp_value": 0.5
+  },
+    "packed_present": {
+    "name": "Packed Present",
+    "cost": 0,
+    "rp_value": 1
+  },
+    "paper": {
+    "name": "Paper",
+    "cost": 14.5,
+    "rp_value": 7
+  },
+    "paraxylene": {
+    "name": "Paraxylene",
+    "cost": 14.5,
+    "rp_value": 0.2
+  },
+    "phosphorus_oxychloride": {
+    "name": "Phosphorus Oxychloride",
+    "cost": 0,
+    "rp_value": 0
+  },
+    "plank_2": {
+    "name": "Plank^2",
+    "cost": 40.6,
+    "rp_value": 1
+  },
+    "planks": {
+    "name": "Planks",
+    "cost": 13.05,
+    "rp_value": 5
+  },
+    "plastic_bottle": {
+    "name": "Plastic Bottle",
+    "cost": 72.5,
+    "rp_value": 30
+  },
+    "plastic_casing": {
+    "name": "Plastic Casing",
+    "cost": 145,
+    "rp_value": 7
+  },
+    "plastic_pellets": {
+    "name": "Plastic Pellets",
+    "cost": 0.87,
+    "rp_value": 25
+  },
+    "pluto_oxide_pellets": {
+    "name": "Pluto Oxide Pellets",
+    "cost": 1250,
+    "rp_value": 0
+  },
+    "poor_quality_diesel": {
+    "name": "Poor Quality Diesel",
+    "cost": 21.75,
+    "rp_value": 1.5
+  },
+    "powdered_tungsten": {
+    "name": "Powdered Tungsten",
+    "cost": 150,
+    "rp_value": 1
+  },
+    "powdered_tungsten_carbide": {
+    "name": "Powdered Tungsten Carbide",
+    "cost": 210,
+    "rp_value": 1
+  },
+    "present_box": {
+    "name": "Present Box",
+    "cost": 174,
+    "rp_value": 1
+  },
+    "pta": {
+    "name": "PTA",
+    "cost": 2.9,
+    "rp_value": 0.2
+  },
+    "purple_gold_ingot": {
+    "name": "Purple Gold Ingot",
+    "cost": 20000,
+    "rp_value": 100
+  },
+    "raw_copper": {
+    "name": "Raw Copper",
+    "cost": 5.31,
+    "rp_value": 1
+  },
+    "raw_gas": {
+    "name": "Raw Iron",
+    "cost": 0.03,
+    "rp_value": 0
+  },
+    "raw_iron": {
+    "name": "Raw Iron",
+    "cost": 5.8,
+    "rp_value": 1
+  },
+    "raw_lead": {
+    "name": "Raw Lead",
+    "cost": 10,
+    "rp_value": 1
+  },
+    "raw_uranium": {
+    "name": "Raw Uranium",
+    "cost": 54,
+    "rp_value": 1
+  },
+    "raw_zinc": {
+    "name": "Raw Zinc",
+    "cost": 5,
+    "rp_value": 1
+  },
+    "raw_zirconium": {
+    "name": "Raw Zirconium",
+    "cost": 32,
+    "rp_value": 1
+  },
+    "rawmix": {
+    "name": "Rawmix",
+    "cost": 2,
+    "rp_value": 1
+  },
+    "refined_diesel": {
+    "name": "Refined Diesel",
+    "cost": 40.6,
+    "rp_value": 3
+  },
+    "refined_diesel_bottle": {
+    "name": "Refined Diesel Bottle",
+    "cost": 449.5,
+    "rp_value": 15
+  },
+    "refined_gas": {
+    "name": "Refined Gas",
+    "cost": 0.29,
+    "rp_value": 0.1
+  },
+    "renforced_concrete_block": {
+    "name": "Renforced Concrete Block",
+    "cost": 630,
+    "rp_value": 4
+  },
+    "reprocessed_uranium": {
+    "name": "Reprocessed Uranium",
+    "cost": 0,
+    "rp_value": 1
+  },
+    "residue": {
+    "name": "Residue",
+    "cost": -5.8,
+    "rp_value": 0
+  },
+    "residue_bottle": {
+    "name": "Residue Bottle",
+    "cost": 0,
+    "rp_value": 0
+  },
+    "rich_soil": {
+    "name": "Rich Soil",
+    "cost": 4,
+    "rp_value": 1
+  },
+    "rock": {
+    "name": "Rock",
+    "cost": 4,
+    "rp_value": 1
+  },
+    "rubber": {
+    "name": "Rubber",
+    "cost": 19.4,
+    "rp_value": 90
+  },
+    "sand": {
+    "name": "Sand",
+    "cost": 4,
+    "rp_value": 0.1
+  },
+    "semiconductor": {
+    "name": "Semiconductor",
+    "cost": 650,
+    "rp_value": 30
+  },
+    "shallow_earth_fragment": {
+    "name": "Shallow Earth Fragment",
+    "cost": 30,
+    "rp_value": 1
+  },
+    "silicon": {
+    "name": "Silicon",
+    "cost": 50,
+    "rp_value": 1
+  },
+    "slightly_enriched_uf6_gas": {
+    "name": "Slightly Enriched UF6 Gas",
+    "cost": 45,
+    "rp_value": 0
+  },
+    "sodium_carbonate": {
+    "name": "Sodium Carbonate",
+    "cost": 8,
+    "rp_value": 1
+  },
+    "sodium_hydroxide_solution": {
+    "name": "Sodium Hydroxide Solution",
+    "cost": 10,
+    "rp_value": 1
+  },
+    "soil": {
+    "name": "Soil",
+    "cost": 2,
+    "rp_value": 0.1
+  },
+    "spent_fuel": {
+    "name": "Spent Fuel",
+    "cost": -1000000,
+    "rp_value": 0
+  },
+    "spent_mox_fuel": {
+    "name": "Spent Mox Fuel",
+    "cost": -1000000,
+    "rp_value": 0
+  },
+    "standard_fuel_rod": {
+    "name": "Standard Fuel Rod",
+    "cost": 150000,
+    "rp_value": 0
+  },
+    "steam": {
+    "name": "Steam",
+    "cost": 0.3,
+    "rp_value": 0
+  },
+    "steel_coil": {
+    "name": "Steel Coils",
+    "cost": 75,
+    "rp_value": 1
+  },
+    "steel_drill_head": {
+    "name": "Steel Drill Head",
+    "cost": 190000,
+    "rp_value": 125
+  },
+    "steel_ingot": {
+    "name": "Steel Ingot",
+    "cost": 48.72,
+    "rp_value": 1
+  },
+    "steel_plate": {
+    "name": "Steel Plate",
+    "cost": 89.9,
+    "rp_value": 18
+  },
+    "sulfur": {
+    "name": "Sulfur",
+    "cost": 30,
+    "rp_value": 12
+  },
+    "sulfur_dioxide": {
+    "name": "Sulfur Dioxide",
+    "cost": 2,
+    "rp_value": 0
+  },
+    "sulfur_trioxide": {
+    "name": "Sulfur Trioxide",
+    "cost": 2.5,
+    "rp_value": 0
+  },
+    "sulfur_acid": {
+    "name": "Sulfur Acid",
+    "cost": 65,
+    "rp_value": 4
+  },
+    "table_salt": {
+    "name": "Table Salt",
+    "cost": 4,
+    "rp_value": 1
+  },
+    "tetraethyllead": {
+    "name": "Tetraethyllead",
+    "cost": 21,
+    "rp_value": 7
+  },
+    "tire": {
+    "name": "Tire",
+    "cost": 2000,
+    "rp_value": 40
+  },
+    "tire_rim": {
+    "name": "Tire Rim",
+    "cost": 1800,
+    "rp_value": 1
+  },
+    "toy": {
+    "name": "Toy",
+    "cost": 101.5,
+    "rp_value": 2
+  },
+    "treated_raw_copper": {
+    "name": "Treated Raw Copper",
+    "cost": 6,
+    "rp_value": 1
+  },
+    "treated_raw_iron": {
+    "name": "Treated Raw Iron",
+    "cost": 8,
+    "rp_value": 1
+  },
+    "treated_rock": {
+    "name": "Treated Rock",
+    "cost": 15,
+    "rp_value": 1
+  },
+    "tributyl_phosphate": {
+    "name": "Tributyl Phosphate",
+    "cost": 0,
+    "rp_value": 0
+  },
+    "tungsten_carbide_drill_head": {
+    "name": "Tungsten Carbide Drill Head",
+    "cost": 800000,
+    "rp_value": 225
+  },
+    "tungsten_carbide_plate": {
+    "name": "Tungsten Carbide Plate",
+    "cost": 600,
+    "rp_value": 70
+  },
+    "uncharged_lithium_ion_battery": {
+    "name": "Uncharged Lithium Ion Battery",
+    "cost": 2000,
+    "rp_value": 1
+  },
+    "unenriched_uf6_gas": {
+    "name": "Unenriched UF6 Gas",
+    "cost": 30,
+    "rp_value": 0
+  },
+    "uranium": {
+    "name": "Uranium",
+    "cost": 8120,
+    "rp_value": 1
+  },
+    "water": {
+    "name": "Water",
+    "cost": 0.23,
+    "rp_value": 0
+  },
+    "water_bottle": {
+    "name": "Water Bottle",
+    "cost": 174,
+    "rp_value": 20
+  },
+    "water_free_gas": {
+    "name": "Water Free Gas",
+    "cost": 0.14,
+    "rp_value": 0
+  },
+    "wet_concrete": {
+    "name": "Wet Concrete",
+    "cost": 120,
+    "rp_value": 1
+  },
+    "yellowcake": {
+    "name": "Yellowcake",
+    "cost": 0,
+    "rp_value": 5
+  },
+    "zinc": {
+    "name": "Zinc",
+    "cost": 20,
+    "rp_value": 1
+  },
+    "zinc_sulfide": {
+    "name": "Zinc Sulfide",
+    "cost": 10,
+    "rp_value": 1
+  },
+    "zirconium_chloride": {
+    "name": "Zirconium Chloride",
+    "cost": 30,
+    "rp_value": 1
+  },
+    "zirconium_dioxide": {
+    "name": "Zirconium Dioxide",
+    "cost": 45,
+    "rp_value": 1
+  },
+    "zirconium_rod": {
+    "name": "Zirconium Rod",
+    "cost": 180,
+    "rp_value": 1
+  }
+}
