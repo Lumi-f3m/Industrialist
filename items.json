@@ -2,1066 +2,1499 @@
   "10_karat_gold": {
     "name": "10 Karat Gold",
     "cost": 300,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
   "12_karat_gold": {
     "name": "12 Karat Gold",
     "cost": 500,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "18_karat_gold": {
+  "18_karat_gold": {
     "name": "18 Karat Gold",
     "cost": 800,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "24_karat_gold": {
+  "24_karat_gold": {
     "name": "24 Karat Gold",
     "cost": 1200,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "8_karat_gold": {
+  "8_karat_gold": {
     "name": "8 Karat Gold",
     "cost": 160,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "acetic_acid": {
+  "acetic_acid": {
     "name": "Acetic Acid",
     "cost": 14.5,
-    "rp_value": 7
+    "rp_multiplier": 7,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "aggregate": {
+  "aggregate": {
     "name": "Aggregate",
     "cost": 14.59,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "alumina": {
+  "alumina": {
     "name": "Alumina",
     "cost": 100,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "alumina_dust": {
+  "alumina_dust": {
     "name": "Alumina Dust",
     "cost": 90,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "aluminium_ingot": {
+  "aluminium_ingot": {
     "name": "Aluminium Ingot",
     "cost": 800,
-    "rp_value": 65
+    "rp_multiplier": 65,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "ammonia": {
+  "ammonia": {
     "name": "Ammonia",
     "cost": 1,
-    "rp_value": 15
+    "rp_multiplier": 15,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "argon": {
+  "argon": {
     "name": "Argon",
     "cost": 2,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "bauxite_residue": {
+  "bauxite_residue": {
     "name": "Bauxite Residue",
     "cost": 50,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "black_dye": {
+  "black_dye": {
     "name": "Black Dye",
     "cost": 8.7,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "boric_acid": {
+  "boric_acid": {
     "name": "Boric Acid",
     "cost": 1500,
-    "rp_value": 12
+    "rp_multiplier": 12,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "boron": {
+  "boron": {
     "name": "Boron",
     "cost": 0,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "brass_ingot": {
+  "brass_ingot": {
     "name": "Brass Ingot",
     "cost": 80,
-    "rp_value": 35
+    "rp_multiplier": 35,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "brick": {
+  "brick": {
     "name": "Brick",
     "cost": 50,
-    "rp_value": 2
+    "rp_multiplier": 2,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "cat": {
+  "cat": {
     "name": "Cat",
     "cost": 20000,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "cement": {
+  "cement": {
     "name": "Cement",
     "cost": 0,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "chair": {
+  "chair": {
     "name": "Chair",
     "cost": 1029.5,
-    "rp_value": 30
+    "rp_multiplier": 30,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "charged_lithium_ion_battery": {
+  "charged_lithium_ion_battery": {
     "name": "Charged Lithium Ion Battery",
     "cost": 4000,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "cheap_water_bottle": {
+  "cheap_water_bottle": {
     "name": "Cheap Water Bottle",
     "cost": 130.5,
-    "rp_value": 5
+    "rp_multiplier": 5,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "chlorine": {
+  "chlorine": {
     "name": "Chlorine",
     "cost": 0.2,
-    "rp_value": 0.5
+    "rp_multiplier": 0.5,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "chunk_plank": {
+  "chunk_plank": {
     "name": "Chunk Plank",
     "cost": 3.48,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "clay": {
+  "clay": {
     "name": "Clay",
     "cost": 2,
-    "rp_value": 0.2
+    "rp_multiplier": 0.2,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "clay_brick": {
+  "clay_brick": {
     "name": "Clay Brick",
     "cost": 28,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "coal": {
+  "coal": {
     "name": "Coal",
     "cost": 5.22,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "coke fuel": {
+  "coke fuel": {
     "name": "Coke Fuel",
     "cost": 18,
-    "rp_value": 9
+    "rp_multiplier": 9,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "consentrated_salt_solution": {
+  "consentrated_salt_solution": {
     "name": "Concentrated Salt Solution",
     "cost": 2,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "concrete": {
+  "concrete": {
     "name": "Concrete Block",
     "cost": 150,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "condensate": {
+  "condensate": {
     "name": "Condensate",
     "cost": 0.1,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "contaminated_water": {
+  "contaminated_water": {
     "name": "Contaminated Water",
     "cost": -241,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "control_rod": {
+  "control_rod": {
     "name": "Control Rod",
     "cost": 150000,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "copper_drill_head": {
+  "copper_drill_head": {
     "name": "Copper Drill Head",
     "cost": 20000,
-    "rp_value": 25
+    "rp_multiplier": 25,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "copper_ingot": {
+  "copper_ingot": {
     "name": "Copper Ingot",
     "cost": 26.68,
-    "rp_value": 1.5
+    "rp_multiplier": 1.5,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "copper_mix": {
+  "copper_mix": {
     "name": "Copper Mix",
     "cost": 3,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "copper_plate": {
+  "copper_plate": {
     "name": "Copper Plate",
     "cost": 32.86,
-    "rp_value": 6
+    "rp_multiplier": 6,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "copper_powder": {
+  "copper_powder": {
     "name": "Copper Powder",
     "cost": 7,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "copper_wire": {
+  "copper_wire": {
     "name": "Copper Wire",
     "cost": 7.31,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "crankshaft": {
+  "crankshaft": {
     "name": "Crankshaft",
     "cost": 754,
-    "rp_value": 35
+    "rp_multiplier": 35,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "crude_diesel": {
+  "crude_diesel": {
     "name": "Crude Diesel",
     "cost": 13.05,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "crude_oil": {
+  "crude_oil": {
     "name": "Crude Oil",
     "cost": 11.6,
-    "rp_value": 0.2
+    "rp_multiplier": 0.2,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "crushed_bauxite": {
+  "crushed_bauxite": {
     "name": "Crushed Bauxite",
     "cost": 75,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "cut_oak_log": {
+  "cut_oak_log": {
     "name": "Cut Oak Log",
     "cost": 3.48,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "deep_earth_fragment": {
+  "deep_earth_fragment": {
     "name": "Deep Earth Fragment",
     "cost": 200,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "enriched_ef6_waste": {
+    "depleted_uf6_waste": {
+    "name": "Depleted UF6 Waste",
+    "cost": -250,
+    "rp_multiplier": 0,
+    "is_radioactive": true,
+    "is_liquid": true
+  },
+  "enriched_ef6_waste": {
     "name": "Enriched UF6 Waste",
     "cost": -250,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": true,
+    "is_liquid": true
   },
-    "diesel": {
+  "diesel": {
     "name": "Diesel",
     "cost": 30.45,
-    "rp_value": 2
+    "rp_multiplier": 2,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "dirty_lithium_sulfate": {
+  "dirty_lithium_sulfate": {
     "name": "Dirty Lithium Sulfate",
     "cost": 60,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "distilled_water": {
+  "distilled_water": {
     "name": "Distilled_water",
     "cost": 1,
-    "rp_value": 0.3
+    "rp_multiplier": 0.3,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "dynamite": {
+  "dynamite": {
     "name": "Dynamite",
     "cost": 120,
-    "rp_value": 25
+    "rp_multiplier": 25,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "electric_motor": {
+  "electric_motor": {
     "name": "Electric Motor",
     "cost": 4500,
-    "rp_value": 200
+    "rp_multiplier": 200,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "electromagnet": {
+  "electromagnet": {
     "name": "Electromagnet",
     "cost": 950,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "enriched_uf6_gas": {
+  "enriched_uf6_gas": {
     "name": "Enriched UF6 Gas",
     "cost": 150,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": true,
+    "is_liquid": true
   },
-    "enriched_uo2_pellets": {
+  "enriched_uo2_pellets": {
     "name": "Enriched UO2 Pellets",
     "cost": 256,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": true,
+    "is_liquid": false
   },
-    "ethenol": {
+  "ethenol": {
     "name": "Ethanol",
     "cost": 5.8,
-    "rp_value": 2
+    "rp_multiplier": 2,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "ethylene": {
+  "ethylene": {
     "name": "Ethylene",
     "cost": 14.5,
-    "rp_value": 0.2
+    "rp_multiplier": 0.2,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "Exhaust": {
+  "Exhaust": {
     "name": "Exhaust",
     "cost": -0.5,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "ferroalluminum_alloy_ingot": {
+  "ferroalluminum_alloy_ingot": {
     "name": "Ferroalluminum Alloy Ingot",
     "cost": 2500,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "ferroaluminium_magnet": {
+  "ferroaluminium_magnet": {
     "name": "Ferroalluminum Magnet",
     "cost": 8500,
-    "rp_value": 120
+    "rp_multiplier": 120,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "filter": {
+  "filter": {
     "name": "Filter",
     "cost": 20,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "filtered_water": {
+  "filtered_water": {
     "name": "Filtered Water",
     "cost": 0.55,
-    "rp_value": 0.2
+    "rp_multiplier": 0.2,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "fission_byproducts": {
-    "name": "Fussion Byproducts",
+  "fission_byproducts": {
+    "name": "Fission Byproducts",
     "cost": -5000000,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": true,
+    "is_liquid": false
   },
-    "fracking_oil": {
+  "fracking_oil": {
     "name": "Fracking Oil",
     "cost": 1,
-    "rp_value": 0.2
+    "rp_multiplier": 0.2,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "galvanized_steel": {
+  "galvanized_steel": {
     "name": "Galvanized Steel",
     "cost": 123,
-    "rp_value": 33
+    "rp_multiplier": 33,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "gasoline": {
+  "gasoline": {
     "name": "Gasoline",
     "cost": 40.6,
-    "rp_value": 7.5
+    "rp_multiplier": 7.5,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "gasoline_e10": {
+  "gasoline_e10": {
     "name": "GasolineE10",
     "cost": 57,
-    "rp_value": 13
+    "rp_multiplier": 13,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "gear": {
+  "gear": {
     "name": "Gear",
     "cost": 98.6,
-    "rp_value": 20
+    "rp_multiplier": 20,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "gearbox": {
+  "gearbox": {
     "name": "Gearbox",
     "cost": 2552,
-    "rp_value": 50
+    "rp_multiplier": 50,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "glass": {
+  "glass": {
     "name": "Glass",
     "cost": 80,
-    "rp_value": 14
+    "rp_multiplier": 14,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "gold": {
+  "gold": {
     "name": "Gold",
     "cost": 4250,
-    "rp_value": 70
+    "rp_multiplier": 70,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "gold_wire": {
+  "gold_wire": {
     "name": "Gold Wire",
     "cost": 200,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "graphite_iron_electrode": {
+  "graphite_iron_electrode": {
     "name": "Graphite-Iron Electrode",
     "cost": 80,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "graphite_zinc_electrode": {
+  "graphite_zinc_electrode": {
     "name": "Graphite-Zinc Electrode",
     "cost": 60,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "gravel": {
+  "gravel": {
     "name": "Gravel",
     "cost": 4,
-    "rp_value": 0.1
+    "rp_multiplier": 0.1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "gunpowder": {
+  "gunpowder": {
     "name": "Gunpowder",
     "cost": 70,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "hardened_plastic_casing": {
+  "hardened_plastic_casing": {
     "name": "Hardened Plastic Casing",
     "cost": 200,
-    "rp_value": 20
+    "rp_multiplier": 20,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "hardened_plastic_pellets": {
+  "hardened_plastic_pellets": {
     "name": "Hardened Plastic Pellets",
     "cost": 2.5,
-    "rp_value": 10
+    "rp_multiplier": 10,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "heavy_oil": {
+  "heavy_oil": {
     "name": "Heavy Oil",
     "cost": 5,
-    "rp_value": 0.2
+    "rp_multiplier": 0.2,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "high_presure_steam": {
+  "high_presure_steam": {
     "name": "High Pressure Steam",
     "cost": 5,
-    "rp_value": 0.2
+    "rp_multiplier": 0.2,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "hot_crude_oil": {
+  "hot_crude_oil": {
     "name": "Hot Crude Oil",
     "cost": 0.14,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "hydrochloric_acid": {
+  "hydrochloric_acid": {
     "name": "Hydrochloric Acid",
     "cost": 80,
-    "rp_value": 10
+    "rp_multiplier": 10,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "hydrofluoric_acid": {
+  "hydrofluoric_acid": {
     "name": "Hydrofluoric Acid",
     "cost": 600,
-    "rp_value": 13
+    "rp_multiplier": 13,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "hydrogen": {
+  "hydrogen": {
     "name": "Hydrogen",
     "cost": 0.2,
-    "rp_value": 0.5
+    "rp_multiplier": 0.5,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "hydrogen_sulfide": {
+  "hydrogen_sulfide": {
     "name": "Hydrogen Sulfide",
     "cost": 8,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "impure_boron": {
+  "impure_boron": {
     "name": "Impure Boron",
     "cost": 0,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "insulated_wire": {
+  "insulated_wire": {
     "name": "Insulated Wire",
     "cost": 40,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "iron_coil": {
+  "iron_coil": {
     "name": "Iron Coil",
     "cost": 43.85,
-    "rp_value": 4
+    "rp_multiplier": 4,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "iron_drill_head": {
+  "iron_drill_head": {
     "name": "Iron Drill Head",
     "cost": 145000,
-    "rp_value": 30
+    "rp_multiplier": 30,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "iron_ingot": {
+  "iron_ingot": {
     "name": "Iron Ingot",
     "cost": 65.54,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "iron_mix": {
+  "iron_mix": {
     "name": "Iron Mix",
     "cost": 10,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "iron_plate": {
+  "iron_plate": {
     "name": "Iron Plate",
     "cost": 70.18,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "iron_plate_2": {
+  "iron_plate_2": {
     "name": "Iron Plate^2",
     "cost": 295.8,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "iron_powder": {
+  "iron_powder": {
     "name": "Iron Powder",
     "cost": 15,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "lead_ingot": {
+  "lead_ingot": {
     "name": "Lead Ingot",
     "cost": 25,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "leaded_gasoline": {
+  "leaded_gasoline": {
     "name": "Leaded Gasoline",
     "cost": 112,
-    "rp_value": 23
+    "rp_multiplier": 23,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "light_oil": {
+  "light_oil": {
     "name": "Light Oil",
     "cost": 7,
-    "rp_value": 0.1
+    "rp_multiplier": 0.1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "limestone": {
+  "limestone": {
     "name": "Limestone",
     "cost": 1,
-    "rp_value": 0.2
+    "rp_multiplier": 0.2,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "liquid_aluminium": {
+  "liquid_aluminium": {
     "name": "Liquid Aluminium",
     "cost": 200,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "liquid_argon": {
+  "liquid_argon": {
     "name": "Liquid Argon",
     "cost": 50,
-    "rp_value": 3
+    "rp_multiplier": 3,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "liquid_brass": {
+  "liquid_brass": {
     "name": "Liquid Brass",
     "cost": 30,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "liquid_copper": {
+  "liquid_copper": {
     "name": "Liquid Copper",
     "cost": 7.54,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "liquid_glass": {
+  "liquid_glass": {
     "name": "Liquid Glass",
     "cost": 10,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "liquid_gold": {
+  "liquid_gold": {
     "name": "Liquid Gold",
     "cost": 1000,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "liquid_iron": {
+  "liquid_iron": {
     "name": "Liquid Iron",
     "cost": 23.2,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "liquid_lead": {
+  "liquid_lead": {
     "name": "Liquid Lead",
     "cost": 5,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "liquid_nitrogen": {
+  "liquid_nitrogen": {
     "name": "Liquid Nitrogen",
     "cost": 4,
-    "rp_value": 3
+    "rp_multiplier": 3,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "liquid_oxygen": {
+  "liquid_oxygen": {
     "name": "Liquid Oxygen",
     "cost": 6,
-    "rp_value": 3
+    "rp_multiplier": 3,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "liquid_sulfer": {
+  "liquid_sulfer": {
     "name": "Liquid Sulfer",
     "cost": 12,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "lithium_battery_pack": {
+  "lithium_battery_pack": {
     "name": "Lithium Battery Pack",
     "cost": 85000,
-    "rp_value": 180
+    "rp_multiplier": 180,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "lithium_brine": {
+  "lithium_brine": {
     "name": "Lithium Brine",
     "cost": 25,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "lithium_carbonate": {
+  "lithium_carbonate": {
     "name": "Lithium Carbonate",
     "cost": 200,
-    "rp_value": 40
+    "rp_multiplier": 40,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "lithium_ore": {
+  "lithium_ore": {
     "name": "Lithium Ore",
     "cost": 10,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "lithium_silfate": {
+  "lithium_silfate": {
     "name": "Lithium Silfate",
     "cost": 100,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "lng": {
+  "lng": {
     "name": "LNG",
     "cost": 160,
-    "rp_value": 2
+    "rp_multiplier": 2,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "logic_plate": {
+  "logic_plate": {
     "name": "Logic Plate",
     "cost": 65,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "low_enrichment_fuel_rod": {
+  "low_enrichment_fuel_rod": {
     "name": "Low Enrichment Fuel Rod",
     "cost": 20000,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": true,
+    "is_liquid": false
   },
-    "low_pressure_steam": {
+  "low_pressure_steam": {
     "name": "Low Pressure Steam",
     "cost": 0.03,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "machine_oil": {
+  "machine_oil": {
     "name": "Machine Oil",
     "cost": 29,
-    "rp_value": 4
+    "rp_multiplier": 4,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "medium_earth_fragment": {
+  "medium_earth_fragment": {
     "name": "Medium Earth Fragment",
     "cost": 120,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "meg": {
+  "meg": {
     "name": "MEG",
     "cost": 2.9,
-    "rp_value": 0.2
+    "rp_multiplier": 0.2,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "microchip": {
+  "microchip": {
     "name": "Microchip",
     "cost": 4000,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "microchip_scrap": {
+  "microchip_scrap": {
     "name": "Microchip Scrap",
     "cost": 0,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "mixed_fissile_nitrates": {
+  "mixed_fissile_nitrates": {
     "name": "Mixed Fissile Nitrates",
     "cost": 0,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": true,
+    "is_liquid": true
   },
-    "mixed_fissile_oxides": {
+  "mixed_fissile_oxides": {
     "name": "Mixed Fissile Oxides",
     "cost": 0,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": true,
+    "is_liquid": true
   },
-    "mixed_uranium": {
-    "name": "Mixed Uranium",
+  "mixed_uranium_oxides": {
+    "name": "Mixed Uranium Oxides",
     "cost": 0,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": true,
+    "is_liquid": true
   },
-    "molten_ferroalluminium_alloy": {
+  "molten_ferroalluminium_alloy": {
     "name": "Molten Ferroalluminium Alloy",
     "cost": 1100,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "molten_purple_gold": {
+  "molten_purple_gold": {
     "name": "Molten Purple Gold",
     "cost": 580,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "mox_fuel_rod": {
+  "mox_fuel_rod": {
     "name": "MOX Fuel Rod",
     "cost": 1000000,
-    "rp_value": 100
+    "rp_multiplier": 100,
+    "is_radioactive": true,
+    "is_liquid": false
   },
-    "nails": {
+  "nails": {
     "name": "Nails",
     "cost": 2.9,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "naphtha": {
+  "naphtha": {
     "name": "Naphtha",
     "cost": 15.6,
-    "rp_value": 0.1
+    "rp_multiplier": 0.1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "nitrogen": {
+  "nitrogen": {
     "name": "Nitrogen",
     "cost": 0.15,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "oak_log": {
+  "oak_log": {
     "name": "Oak Log",
     "cost": 5.8,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "oil_bottle": {
+  "oil_bottle": {
     "name": "Oil Bottle",
     "cost": 208.8,
-    "rp_value": 20
+    "rp_multiplier": 20,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "oxygen": {
+  "oxygen": {
     "name": "Oxygen",
     "cost": 0.1,
-    "rp_value": 0.5
+    "rp_multiplier": 0.5,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "packed_present": {
+  "packed_present": {
     "name": "Packed Present",
     "cost": 0,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "paper": {
+  "paper": {
     "name": "Paper",
     "cost": 14.5,
-    "rp_value": 7
+    "rp_multiplier": 7,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "paraxylene": {
+  "paraxylene": {
     "name": "Paraxylene",
     "cost": 14.5,
-    "rp_value": 0.2
+    "rp_multiplier": 0.2,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "phosphorus_oxychloride": {
+  "phosphorus_oxychloride": {
     "name": "Phosphorus Oxychloride",
     "cost": 0,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "plank_2": {
+  "plank_2": {
     "name": "Plank^2",
     "cost": 40.6,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "planks": {
+  "planks": {
     "name": "Planks",
     "cost": 13.05,
-    "rp_value": 5
+    "rp_multiplier": 5,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "plastic_bottle": {
+  "plastic_bottle": {
     "name": "Plastic Bottle",
     "cost": 72.5,
-    "rp_value": 30
+    "rp_multiplier": 30,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "plastic_casing": {
+  "plastic_casing": {
     "name": "Plastic Casing",
     "cost": 145,
-    "rp_value": 7
+    "rp_multiplier": 7,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "plastic_pellets": {
+  "plastic_pellets": {
     "name": "Plastic Pellets",
     "cost": 0.87,
-    "rp_value": 25
+    "rp_multiplier": 25,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "pluto_oxide_pellets": {
-    "name": "Pluto Oxide Pellets",
+  "plutonium_oxide_pellets": {
+    "name": "Plutonium Oxide Pellets",
     "cost": 1250,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": true,
+    "is_liquid": false
   },
-    "poor_quality_diesel": {
+  "poor_quality_diesel": {
     "name": "Poor Quality Diesel",
     "cost": 21.75,
-    "rp_value": 1.5
+    "rp_multiplier": 1.5,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "powdered_tungsten": {
+  "powdered_tungsten": {
     "name": "Powdered Tungsten",
     "cost": 150,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "powdered_tungsten_carbide": {
+  "powdered_tungsten_carbide": {
     "name": "Powdered Tungsten Carbide",
     "cost": 210,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "present_box": {
+  "present_box": {
     "name": "Present Box",
     "cost": 174,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "pta": {
+  "pta": {
     "name": "PTA",
     "cost": 2.9,
-    "rp_value": 0.2
+    "rp_multiplier": 0.2,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "purple_gold_ingot": {
+  "purple_gold_ingot": {
     "name": "Purple Gold Ingot",
     "cost": 20000,
-    "rp_value": 100
+    "rp_multiplier": 100,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "raw_copper": {
+  "raw_copper": {
     "name": "Raw Copper",
     "cost": 5.31,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "raw_gas": {
+  "raw_gas": {
     "name": "Raw Iron",
     "cost": 0.03,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "raw_iron": {
+  "raw_iron": {
     "name": "Raw Iron",
     "cost": 5.8,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "raw_lead": {
+  "raw_lead": {
     "name": "Raw Lead",
     "cost": 10,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "raw_uranium": {
+  "raw_uranium": {
     "name": "Raw Uranium",
     "cost": 54,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": true,
+    "is_liquid": false
   },
-    "raw_zinc": {
+  "raw_zinc": {
     "name": "Raw Zinc",
     "cost": 5,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "raw_zirconium": {
+  "raw_zirconium": {
     "name": "Raw Zirconium",
     "cost": 32,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "rawmix": {
+  "rawmix": {
     "name": "Rawmix",
     "cost": 2,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "refined_diesel": {
+  "refined_diesel": {
     "name": "Refined Diesel",
     "cost": 40.6,
-    "rp_value": 3
+    "rp_multiplier": 3,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "refined_diesel_bottle": {
+  "refined_diesel_bottle": {
     "name": "Refined Diesel Bottle",
     "cost": 449.5,
-    "rp_value": 15
+    "rp_multiplier": 15,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "refined_gas": {
+  "refined_gas": {
     "name": "Refined Gas",
     "cost": 0.29,
-    "rp_value": 0.1
+    "rp_multiplier": 0.1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "renforced_concrete_block": {
+  "renforced_concrete_block": {
     "name": "Renforced Concrete Block",
     "cost": 630,
-    "rp_value": 4
+    "rp_multiplier": 4,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "reprocessed_uranium": {
+  "reprocessed_uranium": {
     "name": "Reprocessed Uranium",
     "cost": 0,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "residue": {
+  "residue": {
     "name": "Residue",
     "cost": -5.8,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "residue_bottle": {
+  "residue_bottle": {
     "name": "Residue Bottle",
     "cost": 0,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "rich_soil": {
+  "rich_soil": {
     "name": "Rich Soil",
     "cost": 4,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "rock": {
+  "rock": {
     "name": "Rock",
     "cost": 4,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "rubber": {
+  "rubber": {
     "name": "Rubber",
     "cost": 19.4,
-    "rp_value": 90
+    "rp_multiplier": 90,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "sand": {
+  "sand": {
     "name": "Sand",
     "cost": 4,
-    "rp_value": 0.1
+    "rp_multiplier": 0.1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "semiconductor": {
+  "semiconductor": {
     "name": "Semiconductor",
     "cost": 650,
-    "rp_value": 30
+    "rp_multiplier": 30,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "shallow_earth_fragment": {
+  "shallow_earth_fragment": {
     "name": "Shallow Earth Fragment",
     "cost": 30,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "silicon": {
+  "silicon": {
     "name": "Silicon",
     "cost": 50,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "slightly_enriched_uf6_gas": {
+  "slightly_enriched_uf6_gas": {
     "name": "Slightly Enriched UF6 Gas",
     "cost": 45,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": true,
+    "is_liquid": true
   },
-    "sodium_carbonate": {
+  "sodium_carbonate": {
     "name": "Sodium Carbonate",
     "cost": 8,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "sodium_hydroxide_solution": {
+  "sodium_hydroxide_solution": {
     "name": "Sodium Hydroxide Solution",
     "cost": 10,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "soil": {
+  "soil": {
     "name": "Soil",
     "cost": 2,
-    "rp_value": 0.1
+    "rp_multiplier": 0.1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "spent_fuel": {
+  "spent_fuel": {
     "name": "Spent Fuel",
     "cost": -1000000,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": true,
+    "is_liquid": false
   },
-    "spent_mox_fuel": {
+  "spent_mox_fuel": {
     "name": "Spent Mox Fuel",
     "cost": -1000000,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": true,
+    "is_liquid": false
   },
-    "standard_fuel_rod": {
+  "standard_fuel_rod": {
     "name": "Standard Fuel Rod",
     "cost": 150000,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": true,
+    "is_liquid": false
   },
-    "steam": {
+  "steam": {
     "name": "Steam",
     "cost": 0.3,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "steel_coil": {
+  "steel_coil": {
     "name": "Steel Coils",
     "cost": 75,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "steel_drill_head": {
+  "steel_drill_head": {
     "name": "Steel Drill Head",
     "cost": 190000,
-    "rp_value": 125
+    "rp_multiplier": 125,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "steel_ingot": {
+  "steel_ingot": {
     "name": "Steel Ingot",
     "cost": 48.72,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "steel_plate": {
+  "steel_plate": {
     "name": "Steel Plate",
     "cost": 89.9,
-    "rp_value": 18
+    "rp_multiplier": 18,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "sulfur": {
+  "sulfur": {
     "name": "Sulfur",
     "cost": 30,
-    "rp_value": 12
+    "rp_multiplier": 12,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "sulfur_dioxide": {
+  "sulfur_dioxide": {
     "name": "Sulfur Dioxide",
     "cost": 2,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "sulfur_trioxide": {
+  "sulfur_trioxide": {
     "name": "Sulfur Trioxide",
     "cost": 2.5,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "sulfur_acid": {
+  "sulfur_acid": {
     "name": "Sulfur Acid",
     "cost": 65,
-    "rp_value": 4
+    "rp_multiplier": 4,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "table_salt": {
+  "table_salt": {
     "name": "Table Salt",
     "cost": 4,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "tetraethyllead": {
+  "tetraethyllead": {
     "name": "Tetraethyllead",
     "cost": 21,
-    "rp_value": 7
+    "rp_multiplier": 7,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "tire": {
+  "tire": {
     "name": "Tire",
     "cost": 2000,
-    "rp_value": 40
+    "rp_multiplier": 40,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "tire_rim": {
+  "tire_rim": {
     "name": "Tire Rim",
     "cost": 1800,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "toy": {
+  "toy": {
     "name": "Toy",
     "cost": 101.5,
-    "rp_value": 2
+    "rp_multiplier": 2,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "treated_raw_copper": {
+  "treated_raw_copper": {
     "name": "Treated Raw Copper",
     "cost": 6,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "treated_raw_iron": {
+  "treated_raw_iron": {
     "name": "Treated Raw Iron",
     "cost": 8,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "treated_rock": {
+  "treated_rock": {
     "name": "Treated Rock",
     "cost": 15,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "tributyl_phosphate": {
+  "tributyl_phosphate": {
     "name": "Tributyl Phosphate",
     "cost": 0,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "tungsten_carbide_drill_head": {
+  "tungsten_carbide_drill_head": {
     "name": "Tungsten Carbide Drill Head",
     "cost": 800000,
-    "rp_value": 225
+    "rp_multiplier": 225,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "tungsten_carbide_plate": {
+  "tungsten_carbide_plate": {
     "name": "Tungsten Carbide Plate",
     "cost": 600,
-    "rp_value": 70
+    "rp_multiplier": 70,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "uncharged_lithium_ion_battery": {
+  "uncharged_lithium_ion_battery": {
     "name": "Uncharged Lithium Ion Battery",
     "cost": 2000,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "unenriched_uf6_gas": {
+  "unenriched_uf6_gas": {
     "name": "Unenriched UF6 Gas",
     "cost": 30,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "uranium": {
+  "uranium": {
     "name": "Uranium",
     "cost": 8120,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": true,
+    "is_liquid": false
   },
-    "water": {
+  "water": {
     "name": "Water",
     "cost": 0.23,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "water_bottle": {
+  "water_bottle": {
     "name": "Water Bottle",
     "cost": 174,
-    "rp_value": 20
+    "rp_multiplier": 20,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "water_free_gas": {
+  "water_free_gas": {
     "name": "Water Free Gas",
     "cost": 0.14,
-    "rp_value": 0
+    "rp_multiplier": 0,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "wet_concrete": {
+  "wet_concrete": {
     "name": "Wet Concrete",
     "cost": 120,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "yellowcake": {
+  "yellowcake": {
     "name": "Yellowcake",
     "cost": 0,
-    "rp_value": 5
+    "rp_multiplier": 5,
+    "is_radioactive": true,
+    "is_liquid": false
   },
-    "zinc": {
+  "zinc": {
     "name": "Zinc",
     "cost": 20,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   },
-    "zinc_sulfide": {
+  "zinc_sulfide": {
     "name": "Zinc Sulfide",
     "cost": 10,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "zirconium_chloride": {
+  "zirconium_chloride": {
     "name": "Zirconium Chloride",
     "cost": 30,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "zirconium_dioxide": {
+  "zirconium_dioxide": {
     "name": "Zirconium Dioxide",
     "cost": 45,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": true
   },
-    "zirconium_rod": {
+  "zirconium_rod": {
     "name": "Zirconium Rod",
     "cost": 180,
-    "rp_value": 1
+    "rp_multiplier": 1,
+    "is_radioactive": false,
+    "is_liquid": false
   }
 }
