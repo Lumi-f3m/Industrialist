@@ -1,0 +1,40 @@
+{
+    "extractors": {
+        "advanced_coal_drill": ["Advanced Coal Drill", 1000],
+        "advanced_copper_drill": ["Advanced Copper Drill", 520],
+        "coal_drill": ["Coal Drill", 50],
+        "copper_drill": ["Copper Drill", 190],
+        "industrial_drill": ["Industrial Drill", 100000],
+        "iron_drill": ["Iron Drill", 350],
+        "lithium_ore_drill": ["Lithium Ore Drill", 250000],
+        "mineshaft_drill": ["Mineshaft Drill", 1100000],
+        "quarry": ["Quarry", 1500],
+        "air_seperation_unit": ["Air Seperation Unit", 1500000],
+        "hand_pump": ["Hand Pump", 250],
+        "large_pumpjack": ["Large Pumpjack", 120000],
+        "lithium_brine_extractor": ["Lithium Brine Extractor", 100000],
+        "natrual_gas_well": ["Natrual Gas Well", 600000],
+        "oil_fracking_tower": ["Oil Fracking Tower", 500000],
+        "oil_rig": ["Oil Rig", 1200],
+        "water_pump": ["Water Pump", 60],
+        "water_pump_2": ["Water Pump 2", 6000]
+    },
+    "factories": {
+
+    },
+    "logic": {
+
+    },
+    "miscellaneous": {
+
+    },
+    "modular": {
+
+    },
+    "power": {
+
+    },
+    "storage_silos": {
+
+    }
+}
