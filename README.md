@@ -1,4 +1,4 @@
-# Industrialist Calculator
+# An Industrialist calcualator
 
-A calculator for people making items in industrialist or using valve control
-Made for diagrams and calculator
+
+made for lazy peope who need ratios
